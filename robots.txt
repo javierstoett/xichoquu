@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uureejiec.andrewcropper.com/sitemap.xml
